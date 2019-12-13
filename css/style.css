@@ -11,14 +11,15 @@ canvas{
     display: flex;
     justify-content: center;
     align-content: center;
+    position: absolute;
+    left: 45%;
+    top: 5%;
+    z-index: 10;
 }
 
 img{
     width: 70px;
     height: 70px;
-    position: absolute;
-    left: 45%;
-    top: 5%;
 }
 
 .button{
