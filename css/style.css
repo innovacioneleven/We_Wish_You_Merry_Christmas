@@ -3,6 +3,7 @@
     padding: 0px;
 }
 
+
 canvas{
     z-index: -1;
 }
@@ -15,6 +16,7 @@ canvas{
     left: 45%;
     top: 5%;
     z-index: 10;
+    overflow: hidden;
 }
 
 img{
